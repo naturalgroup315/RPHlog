@@ -12,6 +12,7 @@ RagePluginHook.logのログファイルを解析するコードです！
 ・本コードを第三者に譲渡する行為は、おやめください(ただGitHubのリンクであればご自由にどうぞ)
 
 このコードがいいと思ってくれましたらNatural Groupへの寄付のご検討をお願い申し上げます。
+
 https://support.naturalgroup315.com/27/
 
 © 2023-2024 Natural Group. All Rights Reserved.
