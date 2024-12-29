@@ -30,9 +30,9 @@ async def on_message(message):
         crash_status = crash_status_match.group(1) if crash_status_match else "無し"
 
         result_message = (
-            f"GTAV バージョン: {gtav_version} {'最新のバージョンです。' if gtav_version.strip() == '1.0.3179.0' else '使用しているGTA5のファイルは古いバージョンの物です。整合性チェックを行い最新のバージョンにしてください。'}\n"
-            f"RAGE Plugin Hook バージョン: {rage_version} {'最新のバージョンです。' if rage_version == 'v1.109.1337.16564' else '導入されているRAGE Plugin Hookは、古いバージョンの物です。最新のRAGE Plugin Hookに変更してください。[最新のRAGE Plugin Hookは、ここをクリックしてください。](<https://ragepluginhook.net/Downloads.aspx?Category=1>)'}\n"
-            f"LSPDFR バージョン: {lspdfg_version} {'最新のバージョンです。' if lspdfg_version == '0.4.8757.33971' else '導入されているLSPDFRは、古いバージョンの物です。最新のLSPDFRに変更してください。[最新のLSPDFRは、ここをクリックしてください。](<https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/>)'}\n"
+            f"GTAV バージョン: {gtav_version} {'最新のバージョンです。' if gtav_version.strip() == '1.0.3411.0' else '使用しているGTA5のファイルは古いバージョンの物です。整合性チェックを行い最新のバージョンにしてください。'}\n"
+            f"RAGE Plugin Hook バージョン: {rage_version} {'最新のバージョンです。' if rage_version == 'v1.117.1351.16699' else '導入されているRAGE Plugin Hookは、古いバージョンの物です。最新のRAGE Plugin Hookに変更してください。[最新のRAGE Plugin Hookは、ここをクリックしてください。](<https://ragepluginhook.net/Downloads.aspx?Category=1>)'}\n"
+            f"LSPDFR バージョン: {lspdfg_version} {'最新のバージョンです。' if lspdfg_version == '0.4.9110.41894' else '導入されているLSPDFRは、古いバージョンの物です。最新のLSPDFRに変更してください。[最新のLSPDFRは、ここをクリックしてください。](<https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/>)'}\n"
             f"クラッシュの有無: {crash_status}\n"
         )
 
