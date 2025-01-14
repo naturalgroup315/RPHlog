@@ -15,4 +15,4 @@ RagePluginHook.logのログファイルを解析するコードです！
 
 https://support.naturalgroup315.com/natural-group%e3%81%b8%e3%81%ae%e5%af%84%e4%bb%98%e6%96%b9%e6%b3%95-2/27/
 
-© 2023-2024 Natural Group. All Rights Reserved.
+© 2023-2025 Natural Group. All Rights Reserved.
